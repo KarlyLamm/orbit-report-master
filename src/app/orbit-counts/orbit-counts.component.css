@@ -1,0 +1,17 @@
+.counts {
+  background: #361002;
+  color: greenyellow
+  border-radius: 5px;
+  width: 225px;
+}
+
+.counts div {
+  padding: 8px;
+}
+
+.counts span {
+  float: right;
+}
+.counts:hover{
+  transform scale(1.2)
+}
